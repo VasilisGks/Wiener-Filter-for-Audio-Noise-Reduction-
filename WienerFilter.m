@@ -1,5 +1,4 @@
-%Author : Gkitsas Vasileios . AEM : 7617 
-%Part2 . Noise cancelling for given signal. Output - Music track
+%Noise cancelling for given signal. Output - Music track
 
 clear all
 close all
@@ -36,7 +35,7 @@ sound(e,Fs);     %listening to track
 ei=eig(R);
 maxV=max(ei)  %Max value of eigenvalues of vector R is 104.1767
               
-%So minimum ì should be <2/maxV => ì<0.0192
+%So minimum Ã¬ should be <2/maxV => Ã¬<0.0192
 
 %%%%%%%%%%%%%%%%%%%%
 %% parameter error
