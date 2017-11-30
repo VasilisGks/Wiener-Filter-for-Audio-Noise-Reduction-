@@ -1,2 +1,2 @@
 # Wiener-Filter-Audio-Noise-Reduction-
-<br>Create Wiener filter and remove noise from audio signal .
+<br>Implementation of Wiener filter that remove noise from audio signal.
